@@ -5,7 +5,6 @@
 body {
    font-family: 'Roboto', sans-serif;
    background: url(img/background.jpg) center/cover no-repeat scroll;
-   border: 3px solid black;
 }
 
 .header {
@@ -109,7 +108,7 @@ color: rgb(121, 121, 121);
    column-gap: 25px
 }
 
-.form__title-1 {
+.form__title {
    background-color: rgba(128, 128, 128, 0.736);
    color: white;
    padding: 20px;
