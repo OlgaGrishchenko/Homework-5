@@ -174,3 +174,15 @@ body {
   border-radius: 5px;
   border-color: transparent;
 }
+
+.start {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: rgba(128, 128, 128, 0.736);
+  max-width: 800px;
+  min-width: 100%;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
