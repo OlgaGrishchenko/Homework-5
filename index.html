@@ -12,14 +12,15 @@
     />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="favicon/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles/root.css" />
+    <link rel="stylesheet" href="styles/style.css" />
     <title>WeddinGO</title>
   </head>
 
   <header class="header">
     <h1 class="title" id="start">Студия свадеб</h1>
     <a href="http://weddingo.by/"
-      ><img class="header__img" src="img/Logo.png" alt="logo"
+      ><img class="header__img" src="../img/Logo.png" alt="logo"
     /></a>
   </header>
 
@@ -87,10 +88,11 @@
             name="имя"
             placeholder="Введите ваше имя"
             id="input-name"
+            required
           />
 
           <label class="form__block_mail" for=""><h3>E-mail</h3></label>
-          <input type="email" class="form__block_input" />
+          <input type="email" class="form__block_input" required />
 
           <label class="form__block_message" for=""><h3>Message</h3></label>
           <textarea
@@ -100,6 +102,7 @@
             rows="10"
             placeholder="Введите ваше сообщение"
             class="form__block_input"
+            required
           ></textarea>
           <br />
 
@@ -113,7 +116,7 @@
         <div class="form__block_img"></div>
       </div>
     </div>
-    
+
     <div>
       <a class="start" href="#start">В начало</a>
     </div>
