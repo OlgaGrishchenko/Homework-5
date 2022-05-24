@@ -15,8 +15,8 @@
 - [x] Установить расширение Prettier - Code formatter в VS Code и использовать его для форматирование HTML и CSS
 - [ ] Валидировать ваш HTML и CSS с помощью W3C Validators
 - [x] Доработать шаблон с hw5, сделать адаптив, поработать с флекс элементами
-- [ ] Добавить форму (form) на страницу
-- [ ] Проработать свойства box-shadow и text-shadow
+- [x] Добавить форму (form) на страницу
+- [x] Проработать свойства box-shadow и text-shadow
 - [x] Проработать значения свойства width: min-content, max-content, fit-content
 - [ ] Поработать с псевдоклассами: hover и focus
 - [x] Проверить чтобы был четкий README и ссылка на github-pages
