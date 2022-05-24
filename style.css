@@ -160,6 +160,7 @@ body {
   border-color: white;
   cursor: pointer;
   opacity: 0.8;
+  transition: all 1s ease-in-out;
 }
 
 .form__block_img {
