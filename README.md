@@ -26,5 +26,5 @@
 ## Tasks 7 ##
 - [x] Установить расширение "eCSStractor for VSCode" (это его полное название) для копирования селекторов.
 - [x] Закрепить: БЭМ, Flexbox, Form
-- [ ] Закрепить: Position: absolute, fixed, sticky, z-index; свойство transition
+- [x] Закрепить: Position: absolute, fixed, sticky, z-index; свойство transition
 - [x] Закрепить: :root (сделать переменные)
